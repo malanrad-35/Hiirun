@@ -191,4 +191,4 @@ This repository serves as the official landing page for Hiirun. The software is 
 **Get the most recent version of Hiirun today!**
 
 ---
-**Last updated:** 2026-11-14 17:43:15 UTC
+**Last updated:** 2026-11-14 21:57:57 UTC
